@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Bot environment files
+/bot_sessions
+
+# Bot files
+bot.qr.png
